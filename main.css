@@ -1,0 +1,31 @@
+		.h1{
+			color:red ; 
+			font-weight:500; 
+			font-family:Arial; 
+			font-size:20px;
+		}
+		.h2{
+			color:black;
+			font-size:16px;
+		}
+		.img1{
+			border: 1px solid blue;
+		}
+		.p1{
+			color:yellow; 
+			font-size:14px;
+		}
+		.img2{
+			border: 1px solid blue;
+		}
+		.p2{
+			color:yellow; 
+			font-size:14px;
+		}
+		.img3{
+			border: 1px solid blue;
+		}
+		.p3{
+			color:yellow; 
+			font-size:14px;
+		}
